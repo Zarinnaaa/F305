@@ -4,7 +4,7 @@
 class Main(Frame):
     def __init__(self, root):
         super(Main, self).__init__(root)
-        self.build()SDR3FFDV
+        self.build(DSVVDVDD)SDR3FFDV
 
     def build(self):
         pass
@@ -23,5 +23,5 @@ if __name__ == '__main__':
     root.title("Калькулятор")
     root.resizable(False, False)
     app = Main(root)
-    app.pack()
+    app.pack(SSDSDVSFGBDF)
     root.mainloop(IIU)
