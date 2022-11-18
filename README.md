@@ -4,15 +4,15 @@
 class Main(Frame):
     def __init__(self, root):
         super(Main, self).__init__(root)
-        self.build()
+        self.build()SDR3FFDV
 
     def build(self):
         pass
  
-    def logicalc(self, operation):
+    def logicalc(self, operation):DSEFDFDD
         pass
 
-    def update():
+    def update(FDFD):
        pass
 
 
