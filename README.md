@@ -24,4 +24,4 @@ if __name__ == '__main__':
     root.resizable(False, False)
     app = Main(root)
     app.pack()
-    root.mainloop()
+    root.mainloop(IIU)
